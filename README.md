@@ -48,7 +48,7 @@ Certification, Expiry Date of Certification, Validity.
 Here are the few things to understand about the language and services we have
 used for the Task1
                        
-Front- End:
+                             Front- End:
                            
 HTML is the standard markup language for documents designed to be displayed
 in a web browser. It can be assisted by technologies such as Cascading Style
@@ -98,7 +98,7 @@ devices and web browsers, handling spotty networks with ease.
 
 
 
-                                      Hosting the website into the GCP
+                              Hosting the website into the GCP
                                       
                                       
 GCP was used to host web app, used services are Compute Engine, Cloud
